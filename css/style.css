@@ -1,0 +1,54 @@
+body {
+    font: 20px Arial, sans-serif;
+    color: white;
+}
+
+.navbar {
+    background-color: rgb(228, 175, 29);
+}
+
+.quemsomos {
+    background-color: rgb(207, 170, 4);
+}
+
+.produtos {
+    background-color: rgb(151, 141, 5);
+}
+
+.contato {
+    background-color: rgb(146, 100, 2);
+}
+
+.contato a {
+    color: white;
+}
+
+.margem {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.imagemp {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 50%!important;
+}
+
+.imagemqs {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 50%;
+}
+
+h5 {
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+footer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font: 15px Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(78, 5, 0);
+}
